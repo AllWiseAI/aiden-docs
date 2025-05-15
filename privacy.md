@@ -2,103 +2,99 @@
 outline: deep
 ---
 
-# 隐私政策
 
-本隐私政策说明了我们在您使用或访问我们的服务（统称为“服务”）时，如何收集、使用和共享与您相关的个人数据（“个人数据”）。您对本服务的使用须遵守本隐私政策以及我们的服务条款。
+# Aiden
 
-通过使用或访问我们的服务，即表示：(a) 您确认自己有权利、能力和授权接受本隐私政策；(b) 您已阅读并理解本隐私政策；(c) 您同意本隐私政策中所述的各项政策和做法。请您务必仔细阅读，以了解我们如何处理您的信息。如果您不同意本政策条款，请立即停止使用我们的应用程序和服务。
+**Last Updated:**
 
-## 一、我们收集的个人数据
+**Effective Date:** May 15, 2025
 
-我们通过以下方式收集与您有关的个人数据（“个人数据”）：
+This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use or access our Services (collectively, “**Services**”).  Your use of our Services is subject to this Privacy Policy as well as our Terms of Service.
 
-1. 您主动提供的信息
+By using or accessing our Services, you (a) acknowledge that you have the right, capacity and authority to accept this Privacy Policy; (b) acknowledge that you have read and understand this Privacy Policy and (c) consent to the policies and practices outlined in this Privacy Policy. So please read them carefully to understand what we do.If you do not agree to these terms, please immediately cease using or accessing our applications.
 
-当您注册账户或与我们沟通时，我们会收集以下信息：
+1. **Personal Data We Collect**
 
-- 账户信息：包括您的姓名、联系方式、登录凭证、出生日期、支付方式和交易记录等（统称为“账户信息”）。
-- 沟通信息：如果您通过电子邮件或社交媒体与我们联系，我们可能会收集您的姓名、联系方式及消息内容（“沟通信息”）。
-- 用户内容：您在使用服务时输入或上传的内容，例如文本、文件、图像和音频等（“内容”）。
-- 其他您提供的信息：例如您在参与活动、调查或身份/年龄验证时提供的信息（统称为“其他信息”）。
-1. 您在使用服务过程中产生的信息
+We collect personal data relating to you (“**Personal Data**”) through the following means:
 
-我们会收集您访问、使用服务过程中的以下技术信息（“技术信息”）：
+**Personal Data You Provide:** We collect Personal Data when you register an account for our Services or communicate with us, including:
 
-- 日志数据：包括您的IP地址、浏览器类型与设置、访问时间和日期，以及您与服务的互动记录。
-- 位置信息：我们可能通过IP地址识别设备的大致地理位置，用于账户安全和服务优化。
-- 设备信息：包括设备名称、唯一识别码、操作系统与浏览器等。
-- 使用数据：包括您使用服务的行为，如查看或交互的内容类型、使用的功能、采取的操作，以及国家、时区、访问时间、设备类型等。
-- Cookies及类似技术：为确保服务正常运行并优化体验，我们使用Cookies等技术，即使您未注册账户，我们也可能通过Cookies保存部分偏好设置。
-1. 来自其他来源的信息
+1. Account Information: When you create an account with us, we will collect information associated with your profile, such as your full name, contact details, login credentials, birthdate, payment methods, and transaction records (collectively, “**Account Information**”).
+2. Communication Information: If you contact us via email or social media platforms, we may collect Personal Data like your name, contact information, and the contents of the messages you send (“**Communication Information**”).
+3. User Content: We collect Personal Data that you provide in the input to our Services (“**Content**”), including your prompts and other content you upload, such as files, images, and audio, depending on the features you use.
+4. Other Information You Provide: We collect other information that you may provide to us, such as the information you provided during our events, surveys, or identity/age verification processes (collectively, “**Other Information You Provide**”).
 
-我们还可能从可信合作伙伴处获取信息，以协助识别欺诈、滥用行为及其他安全风险，或获取潜在企业用户信息。此外，我们可能从公开的在线数据源收集信息，用于训练和优化支持我们服务的AI模型。
+**Personal Data We Receive from Your Use of our Services:** When accessing or using our Services, we receive the following information about your visit, use, or interactions (“**Technical Information**”):
 
-## 二、我们如何使用个人数据
+1. Log Data: We collect information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services.
+2. Location Information: To enhance security and improve your experience, we may identify the approximate geographic location of your device when accessing our Services using data such as your IP address. This helps us detect suspicious login attempts to safeguard your account and deliver more relevant responses.
+3. Device Information: We collect information about the device you use to access our Services, such as the name of the device, device identifiers, operating system, and browser you are using.
+4. Usage Data: We collect information about your use of our Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your country, time zone, the dates and times of access, type of computer or mobile device, and your computer connection.
+5. Cookies and Similar Technologies: To ensure our Services function properly and enhance your experience, we utilize cookies and similar technologies. Even if you access our Services without an account, we may save certain data (as outlined in this Privacy Policy) via cookies—for instance, to remember your preferences between sessions.
 
-我们可能将您的个人数据用于以下目的：
+**Information We Receive from Other Sources:** We receive information from our trusted partners to help detect and prevent fraudulent activities, service abuse, and other security risks to our Services, and from marketing providers regarding potential customers for our business services.
 
-1. 提供、分析并维护我们的服务，包括回应您的咨询；
-2. 改进服务和产品功能，进行研究与开发；
-3. 向您通知服务更新、活动信息或变更；
-4. 防止欺诈、非法行为或滥用，并保障系统与服务安全；
-5. 遵守法律义务，保护用户、我们自身或第三方的合法权益与安全。
+We may also gather data from publicly accessible online sources to train and improve the AI models that drive our Services.
 
-我们可能对个人数据进行汇总或去标识处理，以移除身份识别信息，并将此类匿名化数据用于上述目的，包括服务分析、功能改进及研究。我们承诺保留其去标识状态，除非法律要求，否则不会尝试重新识别。
+1. **How We Use Personal Data**
 
-如上所述，您提交的内容也可能用于改进我们的服务，例如用于训练Aiden背后的模型。
+We may use Personal Data for the following purposes:
 
-## 三、我们如何共享个人数据
+1. To provide, analyze, and maintain our Services, including responding to your inquiries to Aiden;
+2. To enhance our Services and conduct research, such as developing new product features;
+3. To contact you regarding our Services and events, including notifying you about service changes or improvements to our Services;
+4. To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services;
+5. To comply with legal obligations and to protect the rights, privacy, safety, or property of our Users, Aiden, or third parties.
 
-我们可能在以下情形中共享或披露您的个人数据：
+We may process Personal Data by aggregating or de-identifying it to remove personal identifiers. Such anonymized data may be used for the purposes previously outlined, including service analysis, feature enhancement, and research. We commit to retaining this information in its de-identified state and will not attempt to reidentify it, except where legally mandated.
 
-1. 与服务供应商共享：向第三方服务提供商披露信息，以协助我们提供、维护和优化服务。
-2. 法律要求：在诉讼、监管、合规要求或法律程序中，或在我们合理认为有必要防止伤害、欺诈或违法行为时，披露相关数据。
-3. 防范非法行为：用于识别、预防并调查欺诈、未经授权行为或其他非法活动，包括处理安全漏洞、解决技术问题、执行我们的协议和政策。
-4. 业务转让：如我们被合并、收购、资产转移或破产清算，或在进行相关谈判期间，我们可能将您的数据转移至新实体。
-5. 关联公司：仅在提供服务的必要范围内，与我们的子公司及关联公司共享数据，并遵守本隐私政策的约定。
-6. 保护我们及他人：用于调查潜在非法行为、防止欺诈、保障个人安全、执行使用条款或本隐私政策，或在我们参与的法律程序中按要求披露信息。
-7. 汇总或去标识信息：我们可能将汇总或去标识的用户信息用于市场推广、广告、研究等目的，并公开披露。
-8. 征得您同意：在您明确同意的情况下，我们将与第三方共享您的个人信息。
+As noted above, we may use Content you provide us to improve our Services, for example to train the models that power Aiden.
 
-除上述情况外，我们不会在未经您明确同意的前提下，向第三方出售或披露您的个人数据用于其直接营销目的。
+1. **How We Share Personal Data**
 
-## 四、个人数据的保留期限
+We may share or disclose the data we collect:
 
-我们仅在实现服务目的或出于合法商业需求（如争议解决、安全合规等）所必需的期限内保留您的个人数据。具体保留时间将视以下因素而定：
+1. With service providers. We may disclose your information to third-party service providers and vendors to assist us in delivering, maintaining, and enhancing our Services.
+2. To comply with our legal obligations. We may share your data in the course of litigation, regulatory proceedings, compliance measures, and when compelled by subpoena, court order, or other legal procedure. We may also share data when we believe it is necessary to prevent harm to our Users, us, or others, and to enforce our agreements and policies, including our Terms of Service.
+3. We may share data to detect, prevent, and investigate fraudulent, unauthorized, or illegal activities. This includes addressing security vulnerabilities, resolving technical issues, enforcing our agreements, and protecting our users, us, and ecosystem.
+4. Business Transfers. If we are acquired by or merged with another entity, if substantially all of our assets are transferred to another entity, or as part of a bankruptcy proceeding, or are in negotiations for any of these types of transactions, we may transfer the information we have collected from you to that entity.
+5. Affiliates. We may share your information with our affiliates and subsidiaries strictly for providing Services to you. Any such sharing will be governed by this Privacy Policy, and these entities will be required to maintain the same level of protection for your personal information.
+6. To Protect Us and Others. We also may disclose your information when we believe it’s necessary to investigate potential illegal activities, prevent fraud, address threats to personal safety, enforce our Terms of Use or this Privacy Policy, or as required in legal proceedings where we are involved.
+7. Aggregate and De-Identified Information. We may share aggregate or de-identified information about users and their use of our Services with third parties and publicly for marketing, advertising, research or similar purposes.
+8. Consent. We will share your personal information with third parties when you have given us explicit consent to do so, as specified when we obtained your consent.
 
-- 数据的数量、性质与敏感性；
-- 未授权使用或披露的潜在风险；
-- 我们处理数据的目的（如是否需要保留数据以继续提供服务）；
-- 我们所适用的法律义务。
+Please note that except as noted above, we will not sell or disclose your personal information to third parties for their direct marketing purposes without obtaining your explicit consent.
 
-## 五、您的权利
+1. **Retention of Personal Data**
 
-依据您的居住地法律，您可能享有以下权利：
+We’ll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data will depend on a number of factors, such as:
 
-1. 获取您的个人数据及其处理方式；
-2. 要求删除您的个人数据；
-3. 请求将您的个人数据转移至第三方；
-4. 更新或更正您的个人数据；
-5. 限制我们对您个人数据的处理；
-6. 撤回您对我们处理的同意（如适用）；
-7. 反对我们对您数据的处理。
+1. The amount, nature, and sensitivity of the information;
+2. The potential risk of harm from unauthorized use or disclosure;
+3. Our purpose for processing the data (such as whether we need to retain the data to provide our Services);
+4. Any legal requirements that we are subject to.
+5. **Your rights**
 
-Aiden会在多个司法辖区的服务器上处理您的个人数据。尽管各国数据保护法律不同，我们始终依照本隐私政策中的安全标准处理数据，并仅依据合法的数据转移机制进行数据跨境传输。
+Depending on where you live, you may have certain statutory rights in relation to your Personal Data. For example, you may have the right to:
 
-## 六、信息安全
+1. Access your Personal Data and information relating to how it is processed.
+2. Delete your Personal Data from our records.
+3. Transfer your Personal Data to a third party.
+4. Update or correct your Personal Data.
+5. Restrict how we process your Personal Data.
+6. Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
+7. Object to how we process your Personal Data.
 
-我们采取合理的管理、物理和技术措施，以防止数据的丢失、盗用、滥用、未经授权访问、披露、篡改或销毁。然而，互联网传输本身并非百分之百安全。尽管我们已采取措施保障安全，仍无法保证信息的绝对安全。您应对自己账户下的所有操作负责，我们不对因密码泄露或未经授权使用而造成的后果承担责任。
+Aiden processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions. While data protection law varies by country, we apply the protections described in this Privacy Policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms.
 
-## 七、年龄限制
+1. **Information Security**
 
-我们的服务仅面向18岁及以上用户。我们不会有意收集18岁以下未成年人的信息。如您发现有未成年人向我们提交了个人信息，请立即通过 [contact@allwise.ai](mailto:contact@allwise.ai) 联系我们。我们将在核实后尽快删除相关数据。18岁以下用户不得使用我们的服务。
+We implement and maintain reasonable administrative, physical, and technical security safeguards to help protect data from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. Nevertheless, transmission via the internet is not completely secure and please be aware that despite our efforts, no data security measures can guarantee 100% security. You are responsible for all of your activity on our Services. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-## 八、本政策的变更
+1. **Age Requirements**
+Our Services are designed for users aged 18 and above. We do not intentionally collect personal information from individuals under 18 years of age. If you believe a minor under 18 has submitted personal data to Aiden through our Services, please immediately contact us at [contact@allwise.ai](mailto:contact@allwise.ai). We will promptly investigate all such reports and, where verified, remove the information from our systems. Use of our Services by anyone under 18 years of age is expressly prohibited without exception.
+2. **Changes to this Privacy Policy**
+We may update this Privacy Policy at any time by posting the amended version on our website including the effective date of the amended version, so please check frequently to see if there are any updates and changes. Your continued access to or use of our website and/or our Services constitutes your acknowledgment and acceptance of such changes to this Privacy Policy.
+3. **Contact Us**
 
-我们可能随时更新本隐私政策，更新后的版本将在官网公布，并注明生效日期。请您定期查阅，以了解最新的政策变化。变更后继续使用服务即表示您接受更新后的隐私政策。
-
-## 九、联系我们
-
-如您对本隐私政策或我们如何收集、使用和共享您的信息有任何疑问，请通过以下方式与我们联系：
-
-📧 邮箱：[contact@allwise.ai](mailto:contact@allwise.ai)
+If you have any questions about this Privacy Policy or how we collect, use, or share your information, please contact us at [contact@allwise.ai](mailto:contact@allwise.ai).

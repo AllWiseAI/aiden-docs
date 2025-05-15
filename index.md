@@ -4,27 +4,26 @@ layout: home
 
 hero:
   name: "AidenAI"
-  text: "Aiden 文档中心"
-  tagline: "构建智能未来的开发指南"
+  text: "Aiden Documentation Center"
+  tagline: "A Developer's Guide to Building an Intelligent Future"
   actions:
     - theme: brand
-      text: 服务条款
+      text: Terms of Service
       link: /terms-of-service
     - theme: alt
-      text: 隐私政策
+      text: Privacy Policy
       link: /privacy
 
 features:
-  - title: 本地 Agent 支持
-    details: 支持部署本地智能体，无需依赖第三方服务，保障数据私有与运行稳定。
+  - title: Local Agent Support
+    details: Deploy AI agents locally without relying on third-party services, ensuring data privacy and operational stability.
 
-  - title: 自定义服务器接入
-    details: 灵活配置接入自有模型或代理服务，满足企业级定制化需求。
+  - title: Custom Server Integration
+    details: Flexibly connect to your own models or proxy services to meet enterprise-level customization needs.
 
-  - title: 开箱即用
-    details: 无需繁琐配置，即装即用，适合快速原型验证与部署。
+  - title: Ready to Use
+    details: No complex configuration needed — install and use immediately, ideal for rapid prototyping and deployment.
 
-  - title: 高度可拓展
-    details: 插件机制与模块化架构，方便集成新的模型、功能或前端交互。
+  - title: Highly Extensible
+    details: Plugin mechanism and modular architecture allow easy integration of new models, features, or front-end interactions.
 ---
-
