@@ -18,9 +18,13 @@ jobs:
           yarn install
           yarn docs:build
 
+      - name: Check dist folder
+        run: ls -l .vitepress/dist
+
       - name: Deploy to Server
         uses: appleboy/scp-action@v0.1.0
         with:
+          debug: true
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
