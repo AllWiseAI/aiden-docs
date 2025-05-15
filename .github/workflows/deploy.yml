@@ -22,6 +22,7 @@ jobs:
         uses: appleboy/scp-action@v0.1.0
         with:
           host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: ".vitepress/dist/*"
           target: "/data/aidenai.io"
