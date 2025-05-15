@@ -1,247 +1,237 @@
-# Aiden 服务条款
+# Aiden Terms of Service
 
-**最后更新日期**：
+**Last Updated:**
 
-**生效日期**：2025年5月15日
+**Effective Date:** May 15, 2025
 
-本《服务条款》（“本条款”）规范 Aiden（以下简称“Aiden”、“平台”、“我们”或“本公司”）与使用或访问我们服务的个人或实体（以下简称“用户”、“客户”、“您”或“贵方”）之间的法律关系。通过注册账户或使用本服务的任何部分，即表示您已阅读、理解并同意受本条款及我们的《隐私政策》的约束，隐私政策明确说明了我们对您数据的处理方式。若您不同意本条款的全部内容，则不得使用或访问本服务。本条款提及并纳入您与 Aiden 之间签署的任何书面采购文件（“订单表”）。本条款、《隐私政策》及订单表共同构成您与 Aiden 之间具有法律约束力的完整协议（“本协议”）。
+These Terms of Service (“Terms”) govern the relationship between Aiden (referred to as “**Aiden**”, the “**Platform**”, “**we**”, or “**us**”) and the entity or individual (referred to as the “**User**”, "**Customer**," "**you**," "**your**") using or accessing our services (collectively, the “**Services**”). By registering an account or using any part of the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy, which outlines how we handle your data. If you do not agree, you must not use and access the Services. These Terms refer to and incorporate any written purchase documents executed by you and Aiden ("Order Form(s)"). Together with the Terms, the Privacy Policy, and Order Forms constitute the single binding agreement between you and Aiden ("**Agreement**").
 
-我们可能偶尔会对本条款进行更新，并重新向客户展示所有变更内容。所有变更自本页顶部所列“最后更新”之日起生效。您继续使用本服务即表示对更新后条款的接受。若您不同意本协议的内容，请立即停止使用或访问本服务。
+These Terms may be updated and presented again to the Customer from time to time, all changes will take effect from the "Last Updated" date indicated at the top of this page. Continued use of the Services constitutes acceptance of the updated terms. If you do not agree with the contents of the Agreement, please stop using or accessing the Services.
 
-1. **访问与使用**
+1. **Access and Use**
+
+a. **Account Registration**
+
+These Terms of Service applies to all users of the Aiden product, including individual users and entity clients. The Service is a general-purpose artificial intelligence assistant designed to provide users with intelligent conversation, content creation, and tool operation capabilities. To access and use the Services, you must create an Aiden user account. You agree to provide true, accurate, current, and complete information about yourself during registration and to promptly update such information if it changes.
+
+To access our Services, you must complete account registration on the website and ensure that the personal information you provide is accurate, up-to-date, and complete. You must promptly update any changes and must not impersonate others or provide false information. Your login credentials (e.g., username, password, access keys) must remain confidential, and you are responsible for all activities conducted under your account. If you detect unauthorized use or security breaches, you must notify us immediately. We reserve the right to disable your account if you violate these Terms or provide false information. By using our Services, you consent to our collection and use of information about you and your device to improve our products and provide Services. You are responsible for maintaining the confidentiality of your account and for activities under your account and agree to notify us immediately upon discovering unauthorized use or security issues.
+
+b. **Age Requirement**
+
+To create an account and use the Services, you must be at least 18 years old and have the legal capacity to enter into binding agreements under the laws of your jurisdiction. The Services are not intended for individuals under the age of 18. If you are under 18, you are strictly prohibited from accessing or using the Services, and you must not attempt to register an account.
+
+By accessing or using the Services, you represent and warrant that you meet these eligibility requirements. We reserve the right to suspend or terminate your access without notice if we discover or reasonably suspect that you do not meet these requirements.
+
+c. **Access Grant**
+    
+
+Aiden will use commercially reasonable efforts to make Aiden’s proprietary platform that allows you to build multi-agent automations using AI Technology available to you and your Affiliates.
+
+Subject to your compliance with these terms and conditions, Aiden hereby grants you a limited, non-exclusive, non-transferable, non-sublicensable right to access and use the Services and associated Documentation solely for your internal business purposes, and solely by you and your Authorized Users during the Term.
+
+All rights, title, and interest in and to the Services, Documentation, and Aiden’s intellectual property are and shall remain the exclusive property of Aiden and its licensors. No rights are granted to you other than as expressly set forth in this Agreement.
+
+We reserve the right to modify, suspend, or terminate any part of the Services at any time without prior notice. You agree not to use the Services in any way that could damage its functionality or accessibility.
+
+d. **Account Responsibilities**
+
+
+You and your Authorized Users may be required to create a user account to access or use the Services, and you must ensure that all personal information you provide is accurate, current, and complete. You are responsible for all use of the Services resulting from access through your account, whether directly or indirectly, and whether authorized by you or not. This includes (i) all acts and omissions of your Authorized Users, and any act or omission by an Authorized User that would constitute a breach of these terms if committed by you; and (ii) maintaining the confidentiality of all account credentials, including usernames, passwords, and access keys.
+
+### You must promptly update any changes to your account information, must not impersonate others, and must not provide false or misleading information. You agree to use all reasonable efforts to ensure that all Authorized Users are aware of and comply with the applicable provisions of these terms. You must immediately notify us upon discovering any unauthorized use or security breach related to your account. ****We reserve the right to disable your account if you violate these Terms or provide inaccurate or false information. By using the Services, you consent to our collection and use of information about you and your device in order to improve our products and services.
+
+e. **Restrictions:**
+
+You may not use the Services for any purposes beyond the scope of the rights expressly granted in these Terms of Services. Unless explicitly authorized by Aiden in writing, you agree that neither you nor your Authorized Users will, directly or indirectly:
+
+1. Reverse Engineering & Derivative Works: Reverse engineer, decompile, disassemble, modify, decode, adapt, translate, or create derivative works of the Services, or attempt to access or derive source code or underlying algorithms, except as permitted by applicable law.
+2. Unauthorized Access or Transfer: Make the Services available to anyone other than Authorized Users; transfer, sublicense, lease, lend, sell, or otherwise share access to the Services with any third party.
+3. Competing Services: Use the Services to develop or improve any competing products or services, including to train models that compete with Aiden’s technology.
+4. Prohibited Use or Misuse: Use the Services for any unlawful, harmful, fraudulent, infringing, discriminatory, defamatory, deceptive, pornographic, or unethical purpose, or in a manner that could harm our platform, users, or reputation.
+5. Security Violations: Probe, scan, or test vulnerabilities of the Services or circumvent any security or authentication measures; engage in load testing or penetration testing without our prior written consent.
+6. Data Abuse: Use bots, scrapers, crawlers, or automated tools to mine, extract, or harvest data in a way that imposes excessive load or deviates from normal human usage.
+7. Malicious Content: Upload or distribute any viruses, spyware, malware, or other harmful technologies, or any software, code, or material that degrades system performance or introduces security risks.
+8. Removal of Notices: Remove or alter any copyright notices, terms of use, proprietary labels, or disclaimers within the Services.
+9. Intellectual Property Infringement: Activity that infringes on or violates any copyright, trademark, service mark, patent, right of publicity, right of privacy, or other proprietary or intellectual property rights under applicable law.
+10. Exceeding Limits: Exceed usage thresholds or consume resources in a manner that interferes with the stability or performance of the Services for others. We may implement reasonable technical measures to control such excessive usage.
+11. Regulatory Compliance: Use the Services in any manner classified as high-risk or prohibited under applicable AI laws and regulations, including but not limited to decision-making in legal, medical, financial, or employment contexts without human oversight.
+12. Credential Protection: Share or disclose your or your Authorized Users’ usernames, passwords, or credentials with any third parties (except internal Authorized Users). You must notify Aiden immediately if you suspect any unauthorized access.
+13. Responsibility for Users: You are fully responsible for all acts and omissions of your Authorized Users and Affiliates. Any act or omission by an Authorized User that would constitute a breach of these Terms of Services if committed by you will be deemed a breach by you.
+14. Benefit Abuse and Promotional Misuse: You must use any promotional features—such as invitation rewards, point redemptions, or bonus activities—in good faith and in accordance with standard user behavior. You are prohibited from using technical means or manipulative conduct (such as bulk registration, fraudulent activity, automated tools, or system circumvention) to obtain benefits improperly.
+
+We reserve the right to monitor user behavior and, if we reasonably determine that you or your Authorized Users have violated this section, we may revoke benefits, disqualify access to promotional programs, suspend or terminate your access to the Services without notice, block related accounts or IP addresses, seek restitution for any associated losses, and pursue all legal remedies. Attempts to circumvent such measures, including use of proxy IPs or VPNs, are strictly prohibited.
+
+f. **Service Changes:**
+
+The Services are subject to modification and change, in Aiden’s sole discretion. There are no guarantees made with respect to the quality, stability, availability, or reliability of the Services.
+
+2. **User-Generated Content (UGC) Terms**
+
+a. **Definition of User Content:**
+
+The Services refer to the platform provided by Shanghai Taikuai Technology Co., Ltd., which includes capabilities such as natural language dialogue, image recognition and generation, the use of Model Context Protocol (MCP) tools, task delegation to sub-agents, and collaboration with external Agent-to-Agent (A2A) systems.
+
+For the purposes of these Terms of Services, "User Content" means: (a) any information or materials you provide through the Services, including text, images, videos, and other inputs; and (b) any content or outputs generated by the AI at your request or in response to your inputs, excluding the underlying models, algorithms, or system code. You acknowledge and agree that both your inputs and the resulting outputs are considered your User Content and will be governed by the terms set forth herein.
+
+b. **Ownership of User Content**
+
+You retain ownership of the prompts, inputs, uploaded content, and any AI-generated outputs or other data (“User Content”) you submit or receive through the Services. Aiden does not claim ownership over your User Content.
+
+c. **Your Responsibilities**
+
+
+We make no representations or warranties regarding the accuracy, completeness, timeliness, correctness, reliability, quality, suitability, or originality of any User Content processed by Aiden, and we disclaim all related liabilities. You are solely responsible for the legality, integrity, accuracy, and appropriateness of your User Content. You represent and warrant that you have all necessary rights, licenses, and consents to input, upload, or otherwise submit such content to the Services, and to use and share any outputs derived from such content. If your User Content contains third-party material, you are responsible for obtaining any necessary permissions.
+
+By submitting or uploading any User Content, you represent and warrant that:
+
+1. You own or have valid licenses for all rights, titles, and interests in the User Content, including copyrights, publicity rights, and moral rights where applicable;
+2. The User Content, and Aiden’s processing or display of such content in accordance with these Terms of Services, does not infringe on any third-party rights or violate any law;
+3. To the best of your knowledge, all submitted content is accurate, up-to-date, not misleading, and does not violate these Terms.
+
+In the event of any loss or damage to User Data, to the extent permitted by law, your sole remedy is limited to our reasonable efforts to assist you in recovering lost or damaged data.
+
+d.  **License to Use**
+
+By using the Services, you grant Aiden and our affiliates a limited, worldwide, non-exclusive, royalty-free license to use, process, store, display, and analyze your User Content solely for the purpose of providing, maintaining, improving, or securing the Services, and as otherwise permitted under our Privacy Policy.
+    
+
+In order for us to operate and improve the Services, you grant Aiden and our affiliates a non-exclusive, transferable, worldwide, fully-paid, royalty-free, perpetual, irrevocable, sublicensable (through multiple tiers of sublicensees) right and license to use, copy, reproduce, modify, adapt, prepare derivative works from, translate, distribute, publicly perform, publicly display and derive revenue or other remuneration from your User Content (including both your inputs and the AI outputs) for the purposes of: providing the Services to you (e.g., processing your prompts and generating outputs); maintaining and optimizing the Platform’s performance; improving the accuracy and capabilities of our AI models and algorithms (for example, by using de-identified or aggregated data from user interactions to train or fine-tune models, in compliance with applicable law and our Privacy Policy); and developing new features.
+
+This license is limited to the above purposes – we do not use your User Content for any marketing or advertising purposes without your consent, and we do not disclose your User Content to other users or the public unless you choose to share it or unless disclosure is required by law. This license will remain in effect so long as your User Content is retained by us, but will terminate when we delete the content from our systems (note: certain residual copies may persist in backup storage for a period of time, but will not be used actively).
+
+e. **Content Standards and High-Risk Use Cases**
+    
+1. Prohibited Content and Use
+You may not use the Services to create, distribute, or promote any content that is illegal, harmful, hateful, sexually explicit, discriminatory, violent, or otherwise in violation of our content standards or applicable law. This includes, but is not limited to, content involving sexual exploitation, child abuse, harassment, terrorism, privacy violations, or promotion of illegal activity. Our content moderation system may automatically block or flag such content. Repeated or serious violations may result in account suspension, content removal, or referral to law enforcement.
+1. Moderation and Enforcement
+We use automated filters and human reviewers to detect and address violations of our content policies. You agree to cooperate with moderation inquiries, including responding honestly to requests for clarification. Failure to cooperate or providing misleading information may result in restrictions or account termination.
+1. High-Risk Use Case Restrictions
+Certain applications of our Services are classified as high-risk due to their potential impact on individuals or public safety. These include: Legal guidance or decisions; Medical advice or diagnosis; Insurance assessments or claims; Financial decisions (e.g., loans, credit scoring); Employment and housing eligibility; Academic testing, admissions, or certifications; Public-facing journalism or media generation.
+1. Regional Compliance for Middle Eastern Users:
+
+You may not utilize the Services to generate contents contradicting Islamic principles, including but not limited to those contents that depict human figures in violation of Islamic aniconism principles, promotes atheism or criticism of divine religions and contains references to alcohol, gambling, or other haram substances. Visual outputs depicting individuals must adhere to local religious standards.
+
+Generation of cartographic materials depicting territorial boundaries in conflict zones is also strictly prohibited.
+
+If your use case falls within these categories, you must: Ensure qualified human oversight and review of AI outputs before acting on them; Clearly disclose that users are interacting with or receiving output from an AI system; Avoid presenting AI-generated content as human-created when that could mislead others. Violation of these provisions may result in restrictions, account closure, or legal liability.
+
+3. **Intellectual Property**
+
+a. **Aiden IP**
+
+Aiden retains all rights, title, and interest in and to the Services, Documentation, and all technology, models, code, software, visual interfaces, algorithms, designs, methods, know-how, tools, and any enhancements, improvements, or modifications thereof (collectively, "Aiden IP"), including all related intellectual property rights. "Intellectual Property Rights" refers to all present and future rights associated with patents, inventions, copyrights, moral rights, data rights, database rights, software, domain names, trademarks, trade names, trade dress, goodwill, design rights, trade secrets, confidential information, and similar rights—whether registered or unregistered—worldwide.
+
+These Terms of Services does not transfer any ownership of Aiden IP to you. The Services are provided on a limited-access basis, and no rights are granted except as explicitly set forth herein. The names, logos, and marks of third-party companies that may appear in the Services are the property of their respective owners and do not imply endorsement or affiliation with Aiden.
+
+You hereby authorize Aiden and its third-party service providers to generate and use statistical data, logs, insights, usage metrics, or other aggregated operational data related to your use of the Services ("Usage Data"). Aiden may use Usage Data for any lawful purpose, including analytics, performance optimization, and service improvement, in accordance with applicable laws and our Privacy Policy.
+
+b. **Reservation of Rights**
+    
+
+Except as expressly stated in these Terms of Services, no rights or licenses are granted to you under any intellectual property of Aiden, whether by implication, estoppel, or otherwise. Aiden reserves all rights not expressly granted herein.
+
+c. **Feedback**
+
+
+If you choose to provide suggestions, comments, or other feedback about the Services, you grant Aiden a perpetual, irrevocable, worldwide, royalty-free license to use and incorporate such feedback without restriction or compensation.
+
+4. **Representations, Warranties, and Disclaimers**
    
-    a. **账户注册**
+a. **Artificial Intelligence Disclaimer**
 
+You acknowledge and agree that Aiden’s Services include proprietary and/or third-party technologies such as artificial intelligence, machine learning, and automation systems. When using the Services, you should understand and accept the following:
 
-本《服务条款》适用于所有 Aiden 产品的用户，包括个人用户与法人客户。本服务是一款通用型人工智能助手，旨在为用户提供智能对话、内容生成及工具操作等功能。为使用本服务，您必须创建一个 Aiden 用户账户。您同意在注册过程中提供真实、准确、最新且完整的个人信息，并在信息发生变更时及时更新。
-
-为访问本服务，您需通过官方网站完成账户注册，并确保您提供的个人信息真实、准确、完整且为最新信息。如您的信息发生变更，您应及时更新，不得冒用他人身份或提供虚假信息。您必须对自己的登录凭证（例如用户名、密码、访问密钥等）予以保密，并对通过您账户所进行的全部活动承担责任。若您发现账户被未经授权使用或存在安全漏洞，您应立即通知我们。我们保留在您违反本条款或提供虚假信息时暂停或终止您账户的权利。
-
-通过使用本服务，您同意我们可为改进产品及提供服务为目的，收集并使用与您及您的设备相关的信息。您须对账户的保密性及由此产生的所有行为承担责任，并承诺在发现任何未经授权的使用或安全问题时立即通知我们。
-
-b. **年龄要求**
-
-您必须年满18周岁，并具有依据您所属司法辖区法律订立具约束力协议的完全民事行为能力，方可创建账户并使用本服务。本服务不面向18周岁以下个人提供。如您未满18周岁，严禁访问或使用本服务，亦不得尝试注册账户。
-
-通过访问或使用本服务，您声明并保证您符合上述资格要求。若我们发现或有合理理由怀疑您不符合上述资格，我们有权在无需事先通知的情况下暂停或终止您对本服务的访问权。
-
-c. **访问授权**
-
-Aiden 将尽商业上合理努力，向您及您的关联方提供访问其专有平台的权限，该平台支持您使用人工智能技术构建多代理自动化流程。
-
-在您遵守本条款的前提下，Aiden 特此授予您一项有限的、非排他性的、不可转让的、不可再授权的访问与使用本服务及相关文档的权利，您仅可出于内部商业目的，且仅限您本人及您授权用户在服务期内使用。
-
-本服务、文档及 Aiden 的所有知识产权之所有权、权益及利益，均为 Aiden 及其许可方专属所有。本协议未明示授予您的任何权利均由 Aiden 保留。
-
-我们保留在任何时间无须事先通知即修改、暂停或终止部分或全部服务的权利。您同意不得以任何可能损害服务功能性或可访问性的方式使用本服务。
-
-d. **账户责任**
-
-您及您授权的用户可能需创建用户账户方可访问或使用本服务。您须确保所提供的所有个人信息真实、最新且完整。
-
-您对通过您账户访问或使用本服务的一切行为负责，无论该等行为是否经您授权，或是否由您直接实施。该等责任包括但不限于：
-
-(i) 您授权用户的所有作为与不作为，以及若由您本人实施即构成违反本条款的授权用户的任何行为或疏忽；
-
-(ii) 妥善保管账户凭证，包括用户名、密码及访问密钥，并对其保密性负责。
-
-您必须及时更新您的账户信息的任何变更，不得冒充他人，并且不得提供虚假或误导性的信息。您同意采取一切合理措施，确保所有授权用户了解并遵守这些条款的相关规定。如果您发现任何未经授权的使用或安全漏洞，必须立即通知我们。如果您违反这些条款或提供不准确或虚假的信息，我们保留禁用您的账户的权利。通过使用本服务，您同意我们收集并使用有关您及您设备的信息，以改进我们的产品和服务。
-
-e. **限制条款：**
-    
-
-除本《服务条款》明确授予的权利外，您不得将本服务用于超出授权范围的任何目的。除非Aiden书面明确授权，否则您同意，您或您的授权用户不得直接或间接地：
-
-1. 逆向工程与衍生作品：对服务进行逆向工程、反编译、拆解、修改、解码、适配、翻译或创建衍生作品，或试图访问或推导源代码或底层算法，除非适用法律允许。
-2. 未经授权的访问或转移：将服务提供给授权用户以外的任何人；转让、再许可、租赁、借出、出售或以其他方式与任何第三方共享对服务的访问权。
-3. 竞争服务：使用服务开发或改进任何竞争产品或服务，包括用于训练与Aiden技术竞争的模型。
-4. 禁止使用或滥用：将服务用于任何非法、有害、欺诈、侵权、歧视、诽谤、欺骗、淫秽或不道德的目的，或有可能损害我们平台、用户或声誉的方式使用。
-5. 安全违规：探测、扫描或测试服务的漏洞，或规避任何安全或认证措施；未经我们书面同意进行负载测试或渗透测试。
-6. 数据滥用：使用机器人、爬虫、抓取工具或自动化工具进行数据挖掘、提取或收集，以施加过度负载或偏离正常人工使用方式。
-7. 恶意内容：上传或传播任何病毒、间谍软件、恶意软件或其他有害技术，或任何会降低系统性能或引入安全风险的软件、代码或材料。
-8. 移除通知：删除或更改服务中的任何版权声明、使用条款、专有标签或免责声明。
-9. 知识产权侵权：侵犯或违反任何适用法律下的版权、商标、服务标记、专利、公开权、隐私权或其他专有或知识产权。
-10. 超过限制：超过使用阈值或以干扰服务稳定性或性能的方式消耗资源。我们可能会实施合理的技术措施来控制此类过度使用。
-11. 法规合规：以任何适用的人工智能法律和法规下被归类为高风险或禁止的方式使用服务，包括但不限于在法律、医疗、金融或就业等领域的决策过程中未进行人工监督。
-12. 账户保护：与任何第三方（内部授权用户除外）共享或泄露您或您的授权用户的用户名、密码或凭证。如果您怀疑有未经授权的访问，必须立即通知Aiden。
-13. 用户责任：您对所有授权用户及关联方的行为和疏忽负有完全责任。如果授权用户的任何行为或疏忽构成您违反这些《服务条款》，则视为您违反条款。
-14. 利益滥用与推广误用：您必须诚实使用任何促销功能——如邀请奖励、积分兑换或奖金活动，并遵循标准的用户行为。禁止使用技术手段或操控行为（如批量注册、欺诈行为、自动化工具或规避系统）获取不当利益。
-
-我们保留监控用户行为的权利，并且如我们在合理判断下认为您或您的授权用户违反了本节规定，我们可在无需事先通知的情况下撤销相关权益、取消参与促销活动的资格、暂停或终止您对服务的访问，封锁相关账户或IP地址，要求赔偿因此产生的任何损失，并采取一切法律手段予以追究。任何试图规避上述措施的行为，包括使用代理IP或VPN，均被严格禁止。
-
-f. **服务变更：**
- Aiden有权自行决定对服务进行修改和变更。我们不对服务的质量、稳定性、可用性或可靠性作出任何保证。
-
-    
-2. **用户生成内容（UGC）条款**
+1. Acknowledgment: You acknowledge you are interacting with an AI system, which operates based on probabilistic models, AI technology may reproduce biases from training data or misinterpret instructions, and may produce incorrect or unexpected outputs.
+2. Responsibility: You agree to use discretion and independent judgment when using, relying on, or distributing any outputs. You are solely responsible for reviewing, evaluating, and approving any AI-generated content before relying on it. Any decisions or actions you take based on AI outputs are at your own risk.
+3. Limitations: AI-generated content may include errors, reflect training biases, or lack human nuance, creativity, or emotional understanding. AI may struggle with slang, cultural context, or complex reasoning.
+4. No Warranty: Aiden makes no guarantees regarding the accuracy, quality, or fitness of AI-generated outputs and disclaims all liability for losses or consequences resulting from use of such outputs.
    
-    a. **用户内容的定义：**
+b. **Mutual Representations and Warranties**
 
-“服务”指由上海泰块科技有限公司提供的平台，该平台具备自然语言对话、图像识别与生成、使用模型上下文协议（MCP）工具、任务委派至子代理，以及与外部代理系统（Agent-to-Agent，简称A2A）协作等功能。
+Each party represents and warrants that: (a) it has the legal power and authority to enter into these Terms and fulfill its obligations under them; (b) entering into and performing this Agreement does not violate any other agreement it is a party to; and (c) this Agreement constitutes a valid, binding, and enforceable legal obligation.
 
-就本《服务条款》目的而言，“用户内容”是指：(a) 您通过服务提供的任何信息或材料，包括文本、图像、视频及其他输入内容；以及 (b) 您请求或因您的输入而由人工智能生成的任何内容或输出（不包括基础模型、算法或系统代码）。您确认并同意，您的输入及由此生成的输出均构成您的“用户内容”，并受本条款所述条款的约束。
-
-b. **用户内容的所有权：**
+c. **User Representations and Warranties**
     
 
-您保留对您通过服务提交或接收的提示词、输入、上传内容以及任何由AI生成的输出或其他数据（统称为“用户内容”）的所有权。Aiden不主张对您的用户内容拥有所有权。
+You represent and warrant that you have the legal right and authority to submit any User Content to Aiden under this Agreement, and that such submission does not and will not violate any rights or agreements with third parties or any applicable laws or regulations.
 
-c. **您的责任**：
+You agree to indemnify, defend, and hold harmless Aiden, its parent company, affiliates, officers, employees, and agents from and against any and all claims, damages, liabilities, losses, costs, or expenses (including reasonable legal and attorney fees) arising out of or related to: (a) your access to or use of the Services; (b) your violation of these Terms; or (c) your infringement of any third-party rights, including intellectual property, privacy, or data protection rights, by you or any person using your account.
 
-Aiden不对经其处理的任何用户内容的准确性、完整性、时效性、正确性、可靠性、质量、适用性或原创性作出任何声明或保证，并对此不承担任何相关责任。您应自行负责您的用户内容的合法性、完整性、准确性及适当性。您声明并保证，您拥有输入、上传或以其他方式提交该内容至服务所需的所有权利、许可和同意，并有权使用和共享基于该内容生成的任何输出。如果您的用户内容中包含第三方材料，您应自行负责取得所有必要的授权。
-
-通过提交或上传任何用户内容，您声明并保证：
-
-1. 您拥有该用户内容的全部权利、所有权和权益，或已获得有效许可，包括但不限于著作权、肖像权及适用情形下的精神权利；
-2. 该用户内容及Aiden依本《服务条款》对该内容的处理或展示行为，不会侵犯任何第三方权利，也不违反任何法律法规；
-3. 据您所知，所有提交的内容均为准确、最新、不具误导性，且不违反本条款。
-
-在用户数据发生丢失或损坏的情况下，在法律允许的范围内，您获得的唯一救济为我们在合理范围内协助您恢复丢失或受损数据的努力。
-
-d. **使用许可**：
- 通过使用本服务，您授予 Aiden 及其关联方一项有限的、全球范围内的、非独占的、免版税的许可，仅为提供、维护、改进或保障服务，以及在我们的《隐私政策》允许的范围内之目的，使用、处理、存储、展示及分析您的用户内容。
+d. **Disclaimer of Warranties**
     
 
-为了运营和改进服务，您进一步授予 Aiden 及其关联方一项非独占、可转让、全球范围、已付费、免版税、永久、不可撤销、可再许可（包括多层级再许可）的权利和许可，以使用、复制、再现、修改、改编、创作衍生作品、翻译、分发、公开演出、公开展示您的用户内容（包括您的输入与 AI 输出），并由此产生收入或获得其他报酬，用于以下目的：向您提供服务（例如处理您的提示词并生成输出）；维护和优化平台性能；提升我们 AI 模型与算法的准确性和能力（例如，依据适用法律和我们的《隐私政策》，使用去标识化或汇总的用户交互数据对模型进行训练或微调）；开发新功能。
+Except as expressly stated, the Services are provided ****“As is” and “As Available”, Aiden disclaims all warranties of any kind, whether express, implied, statutory, or otherwise. This includes but is not limited to implied warranties of merchantability, fitness for a particular purpose, accuracy, non-infringement, or uninterrupted operation. Aiden does not guarantee that the Services will meet your requirements or expectations, that the operation of the Services will be uninterrupted, timely, secure, or error-free, or that any content (including User Content or AI-generated output) will be accurate or reliable. No oral or written information or advice given by Aiden, its representatives, or the AI itself shall create any warranty.
 
-该许可仅限用于上述目的 —— 在未征得您同意的情况下，我们不会将您的用户内容用于任何营销或广告目的，也不会向其他用户或公众披露您的用户内容，除非您自行选择分享或法律要求披露。该许可在我们保留您的用户内容期间持续有效，一旦我们将相关内容从系统中删除，许可即终止（注意：某些残留副本可能会在备份存储中保留一段时间，但不会被主动使用）。
+The Services may contain links to independent third-party websites that are not operated or controlled by Aiden. We do not endorse or guarantee the availability, accuracy, or content of such third-party sites and assume no responsibility or liability for any errors, omissions, or damages arising from your access to or use of such sites. All access to external websites is at your own risk.
 
-e. **内容标准与高风险使用场景**
-    
-1. 禁止内容与用途：
-您不得使用本服务创作、传播或推广任何违法、有害、仇恨、暴露、歧视、暴力或以其他方式违反我们内容标准或适用法律的内容。其中包括但不限于涉及性剥削、儿童虐待、骚扰、恐怖主义、隐私侵犯或鼓励非法活动的内容。我们的内容审核系统可能会自动屏蔽或标记此类内容。对于重复或严重违规行为，我们可能会暂停账户、删除内容，或将相关信息移交执法机关处理。
-2. 审核与执行：
-我们采用自动化过滤系统和人工审核相结合的方式，检测并处理违反内容政策的行为。您同意配合内容审核，包括如实回应我们提出的澄清请求。如拒绝配合或提供误导性信息，我们可能对您实施使用限制或终止账户。
-3. 高风险使用场景限制：
-由于某些使用情形可能对个人或公共安全产生重大影响，以下用途被归类为本服务的高风险应用场景，包括但不限于：法律指导或法律决策；医疗建议或诊断；保险评估或理赔；财务决策（如贷款、信用评分）；就业与住房资格评估；学术考试、招生或资格认证；面向公众的新闻或媒体内容生成。
-4. 中东地区用户的区域合规要求：
-您不得使用本服务生成与伊斯兰教义相冲突的内容，包括但不限于：描绘违反伊斯兰反偶像主义原则的人物图像、宣扬无神论或批评宗教信仰、涉及酒精、赌博或其他被认定为“哈拉姆”的物质的内容。任何描绘人物的视觉输出必须符合当地宗教规范与标准。
+Nothing in these Terms excludes or limits any consumer rights you may have under applicable law. Where prohibited by law, Aiden does not disclaim liability for death or personal injury caused by negligence, fraud, or fraudulent misrepresentation.
 
-此外，严禁生成涉及争议领土边界的地图或制图内容。
-
-如您的使用场景属于上述任一类型，您必须遵守以下要求：确保由具备相关资质的人员对AI生成的内容进行人工监督与审查，方可据此采取行动；明确告知用户其正在与AI系统交互，或正在接收AI系统生成的内容；在可能误导他人的情形下，避免将AI生成的内容伪装成人类创作。
-
-如违反上述规定，可能导致服务使用限制、账被户关闭，或承担相应的法律责任。
-
-3. **知识产权**
-
-    a. **Aiden 的知识产权** 
-    
-    Aiden 拥有并保留对服务、文档以及所有相关技术、模型、代码、软件、可视化界面、算法、设计、方法、专有技术、工具，以及任何由此衍生的改进、增强或修改内容（统称为“Aiden 知识产权”）的全部权利、所有权和权益，包括所有相关的知识产权。
-
-“知识产权”是指当前及未来与以下事项相关的所有权利：专利、发明、著作权、精神权利、数据权利、数据库权利、软件、域名、商标、商号、商业外观、商誉、设计权、商业秘密、机密信息及其他类似权利，无论是否已注册，适用于全球范围内。
-
-本服务条款并不向您转让任何 Aiden 知识产权的所有权。服务仅在有限访问的基础上提供，除本条款中明确授予的权利外，您不享有任何其他权利。服务中可能出现的第三方公司的名称、标志及商标均为其各自权利人所有，不构成 Aiden 的背书或与 Aiden 的关联。
-
-您在此授权 Aiden 及其第三方服务提供商生成并使用与您使用服务相关的统计数据、日志、分析结果、使用指标或其他汇总后的运营数据（“使用数据”）。Aiden 可依法将该等使用数据用于任何合法目的，包括但不限于分析、性能优化与服务改进，并遵守适用法律和我们的《隐私政策》。
-
-b. **权利保留**
-
-除本服务条款中明示授予的权利外，您未获得 Aiden 任何知识产权项下的其他权利或许可，无论是基于默示、禁止反言或其他法律原则。Aiden 明确保留未在本条款中明确授予的所有权利。
-c. **反馈意见**
-
-如您自愿向 Aiden 提供有关服务的建议、意见或其他形式的反馈，您即授予 Aiden 全球范围内、永久性的、不可撤销的、免版税的许可，有权不受限制地使用、复制、修改、整合、发布及以其他方式利用该等反馈，且无需就此向您支付任何费用或承担任何义务。
-
-4. **陈述、保证与免责声明**
-
-    a. 人工智能免责声明
-
-    您确认并同意，Aiden 所提供的服务中包含专有及/或第三方技术，例如人工智能、机器学习及自动化系统。在使用本服务时，您应理解并接受以下内容：
-
-      1. **知情**：您确认您正在与基于概率模型运行的人工智能系统进行交互。AI技术可能复现其训练数据中的偏见，可能误解您的指令，亦可能生成不准确或出乎意料的结果。
-      2. **责任**：您同意在使用、依赖或传播任何 AI 生成内容时应自行斟酌并独立判断。您应对所有 AI 生成内容进行审慎审核、评估并最终决定是否采信，且对据此作出的任何决定或采取的任何行为承担全部责任。
-      3. **局限**：AI 生成的内容可能存在错误，反映训练数据的偏见，或缺乏人类的细致判断、创造力或情感理解。AI 可能难以准确处理俚语、文化语境或复杂的推理任务。
-      4. **无保证声明**：Aiden 对 AI 生成内容的准确性、质量或适用性不作任何形式的保证，并明确声明不就您因使用该内容而遭受的任何损失或后果承担责任。
-
-    b. 双方陈述与保证 每一方均陈述并保证：
-
-    （a）其拥有签订本协议并履行本协议项下义务的法定权限及授权。
-
-    （b）其签署及履行本协议不违反其作为一方当事人的任何其他协议；
-
-    （c）本协议构成其合法有效、具有约束力并可强制执行的法律义务。
-
-    c. **用户的陈述与保证**
-
-    您陈述并保证您有合法权利和授权根据本协议向 Aiden 提交任何用户内容，且该等提交行为并未且将不会违反第三方的任何权利或协议，亦不违反任何适用的法律或法规。
-    
-
-您同意就以下事项为 Aiden 及其母公司、关联公司、管理人员、员工和代理人进行赔偿、为其辩护并使其免受损害，因以下情形引起的任何及所有索赔、损害、责任、损失、费用或开支（包括合理的法律费用和律师费）：(a) 您访问或使用本服务； (b) 您违反本服务条款；或(c) 您本人或使用您账户的任何人员侵犯任何第三方权益，包括但不限于知识产权、隐私权或数据保护权利。
-
-d. **免责声明**
-
-除非在本条款中明确说明，否则本服务按“原样”和“可用状态”提供，Aiden 明确不承担任何形式的保证责任，无论是明示、暗示、法定或其他形式的保证。该免责声明包括但不限于对适销性、特定用途适用性、准确性、不侵权或服务不中断运行的默示保证。Aiden 不保证服务将满足您的要求或期望，亦不保证服务的运行将不中断、及时、安全或无错误，也不保证任何内容（包括用户内容或 AI 生成的输出）的准确性或可靠性。Aiden、其代表或 AI 所提供的任何口头或书面信息或建议均不构成任何形式的担保。
-
-本服务可能包含指向独立第三方网站的链接，该等网站并非由 Aiden 运营或控制。Aiden 不对该等第三方网站的可用性、准确性或内容作出背书或保证，并不对因您访问或使用该等网站所产生的任何错误、遗漏或损失承担责任。您访问此类外部网站的风险由您自行承担。
-
-本条款中的任何内容均不排除或限制您根据适用法律所享有的消费者权利。在适用法律禁止的情况下，Aiden 不会对因疏忽、欺诈或欺诈性虚假陈述而导致的死亡或人身伤害承担免责声明或责任。
-
-5. **责任限制**
-
-    a.**责任限制**
+5. **Limitation of Liability**
    
-    在适用法律允许的最大范围内，Aiden 及其母公司、关联公司、管理人员、雇员、代理人、合作伙伴及许可方，均不对因您使用或无法使用本服务，或通过本服务获得的内容而引起的任何间接、附带、后果性、特殊、惩罚性或示范性损害，或任何利润、收入、商誉、数据或商业机会的损失承担责任，即使 Aiden 已被告知可能发生此类损害。上述责任限制适用于所有法律理论基础（例如合同、侵权、过失、严格责任或保证）下的主张。
+    a. **Limitation of Liability**
 
-    b. **责任上限** 
+    To the fullest extent permitted by applicable law, Aiden and its parent company, affiliates, officers, employees, agents, partners, and licensors shall not be liable for any indirect, incidental, consequential, special, punitive, or exemplary damages, or any loss of profits, revenue, goodwill, data, or business opportunities arising from your use of or inability to use the Services or content obtained through the Services—even if Aiden was advised of the possibility of such damages. This applies regardless of any legal theory (e.g., contract, tort, negligence, strict liability, warranty).
+
+    b. **Cap on Liability**
+
+    Where certain limitations are not permitted by law, our aggregate liability for all claims related to the Services shall be limited to the greater of: (a) the amount you paid for the Services in the twelve (12) months prior to the event giving rise to the claim, or (b) one hundred U.S. dollars (USD $100), even if any limited remedy fails of its essential purpose.
+
+    c.  **User Responsibility and Indemnification**
+    You are solely responsible for any consequences (legal, financial, or otherwise) arising from your use or distribution of AI-generated content. This includes any harm, illegality, or rights violations caused by the content you generate or publish. You agree to defend, indemnify, and hold harmless Aiden and its affiliates, officers, and employees from any claims, losses, damages, or costs (including reasonable attorney’s fees) related to: (i) your violation of this Agreement or applicable law, (ii) your User Content or AI-generated output (including infringement of third-party rights), or (iii) your misuse of the Services. This section survives termination of this Agreement.
+
+    d.  **Exceptions**
+
+    Nothing in these Terms is intended to exclude or limit any liability that cannot be excluded or limited under applicable law. In particular, some jurisdictions do not allow the exclusion of certain warranties or limitation of liability for death or personal injury caused by negligence. In such jurisdictions, Aiden’s liability shall be limited to the maximum extent permitted by law.
+
+
     
-    在某些法律不允许完全限制责任的情况下，针对与本服务相关的所有索赔，Aiden 所承担的累计责任总额应以以下两者中的较大者为限：（a）您在引起该索赔的事件发生前十二（12）个月内为本服务实际支付的金额，或（b）一百美元（USD $100），即使任何有限的补救未能达到其基本目的。
+6. **Termination**
+   
+Aiden may, at its sole discretion, suspend or terminate your access to the Services at any time, with or without notice, if you violate these Terms, engage in abusive, fraudulent, or illegal activity, or otherwise pose risk to the platform. You may also terminate your use of the Services at any time by ceasing access and use. Upon termination, your right to access and use the Services will immediately cease, and any licenses granted to you will be revoked. Termination does not affect accrued rights or obligations.
 
-    c. **用户责任与赔偿**
+The provisions of this Agreement that by their nature should survive termination (such as limitations of liability, indemnities, governing law, dispute resolution, and the language clause) will continue to apply even after termination of your account.
 
-    您应自行承担因使用或传播 AI 生成内容而引发的任何后果（包括法律、财务或其他方面的后果）。这包括因您生成或发布的内容所造成的任何伤害、违法行为或权利侵犯。您同意为 Aiden 及其关联公司、高级管理人员和员工进行抗辩、提供赔偿并使其免受损害，赔偿范围包括但不限于因以下情形而产生的任何索赔、损失、损害或费用（包括合理的律师费）： (i) 您违反本协议或适用法律； (ii) 您的用户内容或 AI 生成的内容（包括侵犯第三方权利）；(iii) 您对服务的滥用。本条款在本协议终止后仍继续有效。
+7. **Governing Law and Dispute Resolution**
+   
+    a. **Governing Law**
 
-    d. **例外**
-        
-        本条款中的任何内容均不意图排除或限制根据适用法律无法排除或限制的任何责任。特别是，
-        某些司法管辖区不允许排除某些保证或限制因疏忽造成的死亡或人身伤害的责任。在此类司法管
-        辖区内，Aiden 的责任应限于法律允许的最大范围。
-        
-6. **终止**
+    These Terms shall be governed by and construed in **accordance** with the laws of the Cayman Islands, without regard to its conflict of law rules. If you are a consumer, you may benefit from any mandatory provisions of the laws of your country of residence.
 
-Aiden 可以自行决定在任何时候暂停或终止您对服务的访问，无论是否通知您，如果您违反本条款、从事滥用、欺诈或非法活动，或以其他方式对平台构成风险。您也可以随时通过停止访问和使用来终止您对服务的使用。终止后，您对服务的访问和使用权将立即终止，且授予您的任何许可将被撤销。终止不影响已产生的权利或义务。
+    b.  **Dispute Resolution**
 
-本协议中因其性质应在终止后继续有效的条款（例如责任限制、赔偿、适用法律、争议解决和语言条款）在您的账户终止后仍然适用。
+    In the event of any dispute arising out of or relating to these Terms, the parties agree to first attempt to resolve the matter informally and in good faith. If no resolution is reached, the dispute shall be submitted to binding arbitration administered under the Cayman International Arbitration Centre rules. The arbitration shall be conducted in English. This arbitration clause does not limit such rights if prohibited by your local law.
 
-7. 适用法律与争议解决
+    c. **No Class Actions**
 
-    a. 适用法律
+    You and Aiden each waive the right to a trial by jury and the right to participate in a class action or class arbitration.
 
-    本条款应受开曼群岛法律的管辖并依其解释，不考虑其冲突法规则。如果您是消费者，您可能可以享受您居住国法律中强制性条款的保护。
+8. **General Provisions**
+   
+    a. Notices
+   
+    All notices, requests, consents, claims, demands, waivers, and other communications under these Terms (“Notices”) must be in writing and directed to the appropriate party.
 
-    b. 争议解决
+    b. Force Majeure
+   
+    Aiden shall not be liable or deemed in breach of these Terms for any failure or delay in performance caused by events beyond its reasonable control, including but not limited to natural disasters, war, terrorism, civil unrest, labor disputes, legal or governmental actions, or infrastructure failures.
 
-    如因本条款引起或与之相关的任何争议，双方同意首先以非正式方式并本着诚信原则进行解决。如未能达成解决方案，争议应提交至开曼国际仲裁中心按照其规则进行的具有约束力的仲裁。仲裁应以英语进行。如果当地法律禁止此类仲裁条款，则本仲裁条款不限制您在当地法律下享有的权利。
+    c. Independent Contractors
+   
+    You and Aiden are independent contractors. Nothing in these Terms shall be interpreted to create a partnership, joint venture, employment, or agency relationship. Neither party may bind the other or incur obligations on their behalf.
 
-    c. 不得集体诉讼
+    d. Severability
+   
+    If any provision of these Terms is held to be invalid or unenforceable, that provision will be modified to the minimum extent necessary to make it enforceable, and the remainder will remain in full force and effect.
 
-    您和Aiden双方均放弃陪审团审判的权利以及参与集体诉讼或集体仲裁的权利。
-8. **一般条款**
-    a. 通知
+    e. Waiver
+   
+    Failure to enforce any provision or exercise any right under these Terms shall not constitute a waiver of future enforcement or rights. A waiver of any breach does not waive any subsequent breach.
 
-    根据本条款的所有通知、请求、同意、索赔、要求、豁免及其他通讯（“通知”）必须以书面形式进行，并且应送达至适当的方。
-
-    b. 不可抗力 
-    
-    Aiden 对于因其合理控制范围之外的事件（包括但不限于自然灾害、战争、恐怖主义、社会动荡、劳资纠纷、法律或政府行为、基础设施故障等）导致的任何未能履行或履行延迟，不承担责任，也不视为违反本条款。
+    f. Language and Version Priority
+   
+    These Terms are provided in both English and Chinese. The English version is the original and legally binding version. In the event of a conflict between the English and Chinese versions, the English version shall prevail.
 
 
-    c. 独立承包商
-
-    您与Aiden是独立承包商。本条款中的任何内容均不得解释为创建合伙关系、合资企业、雇佣关系或代理关系。任何一方均不得代表另一方绑定其行为或承担义务。
-
-    d. 可分割性
-
-    如果本条款的任何规定被认定为无效或无法执行，该规定将被修改至最低程度，以使其可执行，其他部分仍然完全有效并继续生效。
-
-    e. 权利放弃
-        
-        未能执行本条款任何规定或行使任何权利，并不构成对今后执行该规定或行使该权利的放弃。
-        对任何违约行为的放弃，不视为对后续违约行为的放弃。
-        
-    f. 语言及版本优先
-
-    本条款提供英文和中文版本。英文版本为原始版本，并具有法律约束力。如英文版与中文版存在冲突，应以英文版为准。
-
-    g. 完整协议
-
-    本条款以及我们的隐私政策和任何引用的文件构成您与Aiden之间关于服务的完整协议，并取代任何先前的协议。如果您有任何问题，请在使用服务前与我们联系。
+    g. Entire Agreement
+   
+    These Terms, along with our Privacy Policy and any referenced documents, constitute the entire agreement between you and Aiden regarding the Services, superseding any prior agreements. If you have questions, please contact us before using the Services.
