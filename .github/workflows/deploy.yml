@@ -28,6 +28,6 @@ jobs:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: ".vitepress/dist/**"
+          source: ".vitepress/dist/*"
           target: "/data/aidenai.io"
           overwrite: true
