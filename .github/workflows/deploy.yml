@@ -31,6 +31,6 @@ jobs:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: "/dist/*"
+          source: "dist/*"
           target: "/data/aidenai.io"
           overwrite: true
