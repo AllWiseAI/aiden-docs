@@ -5,9 +5,9 @@ outline: deep
 
 # Aiden
 
-**Last Updated:**
+**Last Updated:** October 29, 2025
 
-**Effective Date:** May 15, 2025
+**Effective Date:** October 29, 2025
 
 This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use or access our Services (collectively, “**Services**”).  Your use of our Services is subject to this Privacy Policy as well as our Terms of Service.
 
@@ -37,7 +37,7 @@ We collect personal data relating to you (“**Personal Data**”) through the f
 
 We may also gather data from publicly accessible online sources to train and improve the AI models that drive our Services.
 
-1. **How We Use Personal Data**
+2. **How We Use Personal Data**
 
 We may use Personal Data for the following purposes:
 
@@ -49,9 +49,17 @@ We may use Personal Data for the following purposes:
 
 We may process Personal Data by aggregating or de-identifying it to remove personal identifiers. Such anonymized data may be used for the purposes previously outlined, including service analysis, feature enhancement, and research. We commit to retaining this information in its de-identified state and will not attempt to reidentify it, except where legally mandated.
 
-As noted above, we may use Content you provide us to improve our Services, for example to train the models that power Aiden.
+**Important Clarification on Content Use:** While we process your Content to provide our Services, we do not store your Content after processing is complete, and we do not use any user data (including Content, Account Information, or any other Personal Data) to train or improve our AI models.
 
-1. **How We Share Personal Data**
+3. **Google User Data**
+
+If you access our Services using Google Sign-In or grant us access to your Google account:
+
+1. **Limited Use:** We only use information received from Google APIs to provide or improve user-facing features of our Services. We do not use Google user data for any other purpose.
+2. **No Sale of Data:** We do not and will never sell Google user data to third parties.
+3. **Compliance:** Our use of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+
+4. **How We Share Personal Data**
 
 We may share or disclose the data we collect:
 
@@ -64,17 +72,26 @@ We may share or disclose the data we collect:
 7. Aggregate and De-Identified Information. We may share aggregate or de-identified information about users and their use of our Services with third parties and publicly for marketing, advertising, research or similar purposes.
 8. Consent. We will share your personal information with third parties when you have given us explicit consent to do so, as specified when we obtained your consent.
 
-Please note that except as noted above, we will not sell or disclose your personal information to third parties for their direct marketing purposes without obtaining your explicit consent.
+**Important:** We do not and will never sell your personal information, including Google user data, to third parties under any circumstances. We do not disclose your personal information to third parties for their direct marketing purposes without obtaining your explicit consent.
 
-1. **Retention of Personal Data**
+5. **Retention of Personal Data**
 
-We’ll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data will depend on a number of factors, such as:
+We'll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data will depend on a number of factors, such as:
 
 1. The amount, nature, and sensitivity of the information;
 2. The potential risk of harm from unauthorized use or disclosure;
 3. Our purpose for processing the data (such as whether we need to retain the data to provide our Services);
 4. Any legal requirements that we are subject to.
-5. **Your rights**
+
+**Specific Retention Periods:**
+
+- **Content:** As stated above, we do not store your Content after processing is complete.
+- **Account Information:** Retained for as long as your account is active. If you delete your account, we will delete your Account Information within 30 days, except where retention is required for legal compliance, dispute resolution, or security purposes.
+- **Google User Data:** Retained only as long as necessary to provide the Services you have authorized. If you revoke access or delete your account, Google user data will be deleted within 30 days.
+- **Technical Information (logs, usage data):** Retained for up to 90 days for security and service improvement purposes, then automatically deleted.
+- **Communication Information:** Retained for up to 2 years to maintain support history and improve our Services.
+
+6. **Your Rights**
 
 Depending on where you live, you may have certain statutory rights in relation to your Personal Data. For example, you may have the right to:
 
@@ -86,16 +103,24 @@ Depending on where you live, you may have certain statutory rights in relation t
 6. Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
 7. Object to how we process your Personal Data.
 
+**How to Exercise Your Rights:**
+
+To exercise any of these rights, including requesting deletion of your Personal Data or Google user data, please contact us at [contact@aidenai.io](mailto:contact@aidenai.io). We will respond to your request within 30 days. For data deletion requests, we will delete your Personal Data from our active systems within 30 days of verification, except where we are required to retain it for legal, security, or safety purposes.
+
 Aiden processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions. While data protection law varies by country, we apply the protections described in this Privacy Policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms.
 
-1. **Information Security**
+7. **Information Security**
 
 We implement and maintain reasonable administrative, physical, and technical security safeguards to help protect data from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. Nevertheless, transmission via the internet is not completely secure and please be aware that despite our efforts, no data security measures can guarantee 100% security. You are responsible for all of your activity on our Services. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-1. **Age Requirements**
+8. **Age Requirements**
+
 Our Services are designed for users aged 18 and above. We do not intentionally collect personal information from individuals under 18 years of age. If you believe a minor under 18 has submitted personal data to Aiden through our Services, please immediately contact us at [contact@aidenai.io](mailto:contact@aidenai.io). We will promptly investigate all such reports and, where verified, remove the information from our systems. Use of our Services by anyone under 18 years of age is expressly prohibited without exception.
-2. **Changes to this Privacy Policy**
+
+9. **Changes to this Privacy Policy**
+
 We may update this Privacy Policy at any time by posting the amended version on our website including the effective date of the amended version, so please check frequently to see if there are any updates and changes. Your continued access to or use of our website and/or our Services constitutes your acknowledgment and acceptance of such changes to this Privacy Policy.
-3. **Contact Us**
+
+10. **Contact Us**
 
 If you have any questions about this Privacy Policy or how we collect, use, or share your information, please contact us at [contact@aidenai.io](mailto:contact@aidenai.io).
